@@ -1,0 +1,38 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="200"
+  height="50"
+  viewBox="0 0 200 50"
+  fill="none"
+>
+  <!-- Icon: A simple frame with a flow-like curve -->
+  <rect
+    x="5"
+    y="5"
+    width="40"
+    height="40"
+    rx="8"
+    ry="8"
+    stroke="#4A90E2"
+    strokeWidth="2"
+    fill="none"
+  />
+  <path
+    d="M15 20 Q25 5, 35 20 Q25 35, 15 20"
+    fill="none"
+    stroke="#1E88E5"
+    strokeWidth="2"
+  />
+
+  <!-- Text: "Frame Flow" -->
+  <text
+    x="60"
+    y="32"
+    fontFamily="Arial, sans-serif"
+    fontSize="56"
+    fontWeight="bold"
+    fill="#1E88E5"
+  >
+    Frame Flow
+  </text>
+</svg>
